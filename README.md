@@ -83,10 +83,10 @@ Rota: `localhost:8080/comandas`
 Método HTTP: **POST**  
 Funcionalidade: Inclui o determinado produto na comanda.  
 
-Caso cliente não possua sua comanda, ele gera comanda e inclui o produto.
+Caso cliente não possua sua comanda, ele gera comanda e inclui o produto.  
 ![image](https://user-images.githubusercontent.com/65087142/156045966-a5b07802-e368-4028-9dc7-a933a0de0187.png)
 
-Caso cliente possua, ele inclui no array de consumidos.
+Caso cliente possua, ele inclui no array de consumidos.  
 ![image](https://user-images.githubusercontent.com/65087142/156045981-dbdcfc3b-6d6c-42d7-9da3-1f81ec0e8712.png)
 
 ## Consultar SQL
