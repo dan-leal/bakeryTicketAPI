@@ -8,8 +8,9 @@ npm install
 ```
 
 Para conectar com o banco, utilize a seguinte url localizada no arquivo `app\config\db.config.js`.
-`mongodb+srv://padeiroDan:padaria123@padariadb.r9zja.mongodb.net/padariaDB?retryWrites=true&w=majority`.  
-
+``` js
+mongodb+srv://padeiroDan:padaria123@padariadb.r9zja.mongodb.net/padariaDB?retryWrites=true&w=majority  
+```
 
 ## Identificando Tecnologias
 - Linguagem de prograação: NodeJS
