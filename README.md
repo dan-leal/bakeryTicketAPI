@@ -13,7 +13,7 @@ mongodb+srv://padeiroDan:padaria123@padariadb.r9zja.mongodb.net/padariaDB?retryW
 ```
 
 ## Identificando Tecnologias
-- Linguagem de prograação: NodeJS
+- Linguagem de programação: NodeJS
 - SGBD: MongoDB Compass / Atlas 
 - Banco de dados: Mongo DB
 - ORM: Mongoose
