@@ -2,6 +2,21 @@
 
 Teste prático de uma API de controle de comanda eletrônica de uma padaria.
 
+Para iniciar o projeto siga os seguintes comandos:
+``` shell
+npm install
+```
+
+Para conectar com o banco, utilize a seguinte url localizada no arquivo `app\config\db.config.js`.
+`mongodb+srv://padeiroDan:padaria123@padariadb.r9zja.mongodb.net/padariaDB?retryWrites=true&w=majority`.  
+
+
+## Identificando Tecnologias
+- Linguagem de prograação: NodeJS
+- SGBD: MongoDB Compass / Atlas 
+- Banco de dados: Mongo DB
+- ORM: Mongoose
+
 ## Objetivos
 
 1. Identifique as classes, objetos e métodos desse cenário
