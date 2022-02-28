@@ -104,6 +104,10 @@ Caso cliente não possua sua comanda, ele gera comanda e inclui o produto.
 Caso cliente possua, ele inclui no array de consumidos.  
 ![image](https://user-images.githubusercontent.com/65087142/156045981-dbdcfc3b-6d6c-42d7-9da3-1f81ec0e8712.png)
 
+Resultado:
+![image](https://user-images.githubusercontent.com/65087142/156049285-977041bd-f00d-44e9-99b2-83b43c2b88ef.png)
+
+
 ## Consultar SQL
 1. Valores totais das vendas diárias.
 2. O ticket médio diário (valor das vendas totais / número de vendas).
