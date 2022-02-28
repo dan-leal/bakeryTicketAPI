@@ -37,7 +37,7 @@ mongodb+srv://padeiroDan:padaria123@padariadb.r9zja.mongodb.net/padariaDB?retryW
 
 ### Classes:
 
-- Comandas
+- Comanda
 - Produtos
 
 ### Atributos:
