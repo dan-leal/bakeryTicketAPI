@@ -15,6 +15,7 @@ Teste prático de uma API de controle de comanda eletrônica de uma padaria.
 9. Os três produtos mais vendidos e os seus respectivos totais das vendas;
 
 ## Diagrama de classe
+![image](https://user-images.githubusercontent.com/65087142/156045591-73a74878-e0b9-415e-904e-ed36e27e89fc.png)
 
 ## Identificação
 
