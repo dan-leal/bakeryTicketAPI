@@ -63,25 +63,25 @@ Na leitura da comanda, verifica-se o valor unitário de cada produto a fim de ca
 
 ## Operações da API
 ### Produtos
-Rota: `localhost:8080/produtos`
-Método HTTP: **GET**
-Funcionalidade: Retorna os produtos cadastrados
+Rota: `localhost:8080/produtos`\n
+Método HTTP: **GET**\n
+Funcionalidade: Retorna os produtos cadastrados\n
 ![image](https://user-images.githubusercontent.com/65087142/156045801-bceb7f95-2334-4154-b0cf-4043aa393ec7.png)
 
-Rota: `localhost:8080/produtos`
-Método HTTP: **POST**
-Funcionalidade: Cadastra no banco os produtos.
+Rota: `localhost:8080/produtos`\n
+Método HTTP: **POST**\n
+Funcionalidade: Cadastra no banco os produtos.\n
 ![image](https://user-images.githubusercontent.com/65087142/156045865-644627cc-15ff-4023-a08d-4a4cf8423160.png)
 
 ### Comandas
-Rota: `localhost:8080/comandas`
-Método HTTP: **GET**
-Funcionalidade: Retorna as comandas cadastradas
+Rota: `localhost:8080/comandas`\n
+Método HTTP: **GET**\n
+Funcionalidade: Retorna as comandas cadastradas\n
 ![image](https://user-images.githubusercontent.com/65087142/156045903-31dd1072-9d21-4015-9162-323370c4ef61.png)
 
-Rota: `localhost:8080/comandas`
-Método HTTP: **POST**
-Funcionalidade: Inclui o determinado produto na comanda.
+Rota: `localhost:8080/comandas`\n
+Método HTTP: **POST**\n
+Funcionalidade: Inclui o determinado produto na comanda.\n
 
 Caso cliente não possua sua comanda, ele gera comanda e inclui o produto.
 ![image](https://user-images.githubusercontent.com/65087142/156045966-a5b07802-e368-4028-9dc7-a933a0de0187.png)
