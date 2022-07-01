@@ -25,10 +25,10 @@ mongodb+srv://padeiroDan:padaria123@padariadb.r9zja.mongodb.net/padariaDB?retryW
 3. Desenvolva a aplicação. Utilize um SGBD (Atlas - MongoDB) que possa armazenar os dados e executar as operações do cenário;
 4. Identifique as tecnologias escolhidas na documentação a ser enviada.
 5. Forneça as consultas SQL para obter os seguintes relatórios:
-6. Os valores totais das vendas diárias;
-7. O ticket médio diário
-8. Os três produtos mais vendidos e os seus respectivos totais das vendas;
-9. Os três produtos mais vendidos e os seus respectivos totais das vendas;
+  - Os valores totais das vendas diárias;
+  - O ticket médio diário
+  - Os três produtos mais vendidos e os seus respectivos totais das vendas;
+  - Os três produtos mais vendidos e os seus respectivos totais das vendas;
 
 ## Diagrama de classe
 ![image](https://user-images.githubusercontent.com/65087142/156045591-73a74878-e0b9-415e-904e-ed36e27e89fc.png)
